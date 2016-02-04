@@ -17,7 +17,7 @@ void Ninety_Nine_Bottles_of_Beer() {
 
 
 }
-
+//Code is good
 int main()
 {
 	Ninety_Nine_Bottles_of_Beer();
